@@ -1,0 +1,23 @@
+html{
+    background-color: #00FFCC;
+}
+
+h1{
+    font-family: Luminari;
+    font-size: 50px;
+    text-align: center;
+}
+
+img{
+    display: flex;
+    align-items: center;
+    padding-left: 380px;
+}
+
+li{
+    font-family: Arial;
+}
+
+
+
+
